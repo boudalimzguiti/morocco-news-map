@@ -1,0 +1,53 @@
+{
+  "last_updated": "2026-11-23T12:00:00Z",
+  "articles": [
+    {
+      "id": "casablanca-port-logistics",
+      "title": "Casablanca Port Plan Targets Faster Freight Turnaround",
+      "summary": "A proposed logistics upgrade would expand digital cargo processing and improve links between the port and inland distribution hubs. Officials say the next step is a public review of the project timeline and its expected impact on local businesses.",
+      "category": "Economy",
+      "city": "Casablanca",
+      "lat": 33.5731,
+      "lng": -7.5898,
+      "date": "2026-11-23",
+      "source_name": "Demo newsroom — sample story",
+      "url": "https://example.com/news/casablanca-port-logistics"
+    },
+    {
+      "id": "rabat-civic-services",
+      "title": "Rabat Opens Consultation on Expanded Civic Services",
+      "summary": "The city is inviting residents to comment on a proposed package of neighborhood service improvements. Organizers say feedback sessions will focus on access, delivery priorities, and how progress should be reported.",
+      "category": "Politics",
+      "city": "Rabat",
+      "lat": 34.0209,
+      "lng": -6.8416,
+      "date": "2026-11-23",
+      "source_name": "Demo newsroom — sample story",
+      "url": "https://example.com/news/rabat-civic-services"
+    },
+    {
+      "id": "marrakech-youth-sports",
+      "title": "Marrakech Youth Sports Program Adds Community Facilities",
+      "summary": "A new community sports initiative plans to add training sessions and shared facilities for young athletes across several districts. Local clubs will help shape the schedule, with organizers emphasizing broad participation and access for girls and boys.",
+      "category": "Sports",
+      "city": "Marrakech",
+      "lat": 31.6295,
+      "lng": -7.9811,
+      "date": "2026-11-23",
+      "source_name": "Demo newsroom — sample story",
+      "url": "https://example.com/news/marrakech-youth-sports"
+    },
+    {
+      "id": "tangier-coastal-weather",
+      "title": "Tangier Issues Coastal Weather Advisory for Small Craft",
+      "summary": "Marine services are advising small boats to check local conditions before heading out as unsettled weather is forecast along parts of the northern coast. Residents are encouraged to follow official updates and take care near exposed shorelines.",
+      "category": "Weather/Society",
+      "city": "Tangier",
+      "lat": 35.7595,
+      "lng": -5.834,
+      "date": "2026-11-23",
+      "source_name": "Demo newsroom — sample story",
+      "url": "https://example.com/news/tangier-coastal-weather"
+    }
+  ]
+}
