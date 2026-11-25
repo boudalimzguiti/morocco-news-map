@@ -1,54 +1,6 @@
 {
-  "last_updated": "2026-11-24T11:11:00Z",
+  "last_updated": "2026-11-25T08:21:41Z",
   "articles": [
-    {
-      "id": "casablanca-port-logistics",
-      "title": "Casablanca Port Plan Targets Faster Freight Turnaround",
-      "summary": "A proposed logistics upgrade would expand digital cargo processing and improve links between the port and inland distribution hubs. Officials say the next step is a public review of the project timeline and its expected impact on local businesses.",
-      "category": "Economy",
-      "city": "Casablanca",
-      "lat": 33.5731,
-      "lng": -7.5898,
-      "date": "2026-11-23",
-      "source_name": "Demo newsroom — sample story",
-      "url": "https://example.com/news/casablanca-port-logistics"
-    },
-    {
-      "id": "rabat-civic-services",
-      "title": "Rabat Opens Consultation on Expanded Civic Services",
-      "summary": "The city is inviting residents to comment on a proposed package of neighborhood service improvements. Organizers say feedback sessions will focus on access, delivery priorities, and how progress should be reported.",
-      "category": "Politics",
-      "city": "Rabat",
-      "lat": 34.0209,
-      "lng": -6.8416,
-      "date": "2026-11-23",
-      "source_name": "Demo newsroom — sample story",
-      "url": "https://example.com/news/rabat-civic-services"
-    },
-    {
-      "id": "marrakech-youth-sports",
-      "title": "Marrakech Youth Sports Program Adds Community Facilities",
-      "summary": "A new community sports initiative plans to add training sessions and shared facilities for young athletes across several districts. Local clubs will help shape the schedule, with organizers emphasizing broad participation and access for girls and boys.",
-      "category": "Sports",
-      "city": "Marrakech",
-      "lat": 31.6295,
-      "lng": -7.9811,
-      "date": "2026-11-23",
-      "source_name": "Demo newsroom — sample story",
-      "url": "https://example.com/news/marrakech-youth-sports"
-    },
-    {
-      "id": "tangier-coastal-weather",
-      "title": "Tangier Issues Coastal Weather Advisory for Small Craft",
-      "summary": "Marine services are advising small boats to check local conditions before heading out as unsettled weather is forecast along parts of the northern coast. Residents are encouraged to follow official updates and take care near exposed shorelines.",
-      "category": "Weather/Society",
-      "city": "Tangier",
-      "lat": 35.7595,
-      "lng": -5.834,
-      "date": "2026-11-23",
-      "source_name": "Demo newsroom — sample story",
-      "url": "https://example.com/news/tangier-coastal-weather"
-    },
     {
       "id": "fluidra-tanger-automotive-city",
       "title": "Fluidra Opens New Production Plant at Tanger Automotive City",
@@ -288,6 +240,90 @@
       "date": "2026-11-22",
       "source_name": "HibaPress",
       "url": "https://fr.hibapress.com/news-286757.html"
+    },
+    {
+      "id": "dakhla-afd-water-sanitation-loan",
+      "title": "Dakhla Secures €15 Million AFD Loan for Water and Sanitation Improvements",
+      "summary": "The AFD and Dakhla-Oued Eddahab Regional Multi-Service Company signed a €15 million loan in Dakhla on 24 November to support drinking-water and sanitation network upgrades and expand the wastewater treatment plant. Medias24 reports that the project also aims to increase treated-water reuse, including for green-space irrigation.",
+      "category": "Economy",
+      "city": "Dakhla",
+      "lat": 23.6941,
+      "lng": -15.9431,
+      "date": "2026-11-24",
+      "source_name": "Médias24",
+      "url": "https://medias24.com/2026/11/24/lafd-accorde-un-pret-de-15-millions-deuros-pour-leau-et-lassainissement-a-dakhla-1794503/"
+    },
+    {
+      "id": "um6p-phosphorus-sustainability-conference",
+      "title": "Benguerir Hosts African Debut of European Sustainable Phosphorus Conference",
+      "summary": "More than 300 international experts are attending the sixth European Sustainable Phosphorus Conference at UM6P in Benguerir on 24–25 November. La Vie Éco reports that the conference focuses on efficiency, resource recovery and recycling to support food security and soil health.",
+      "category": "Economy",
+      "city": "Benguerir – UM6P",
+      "lat": 32.2192852,
+      "lng": -7.935507,
+      "date": "2026-11-24",
+      "source_name": "La Vie Éco",
+      "url": "https://www.lavieeco.com/affaires/agriculture/phosphore-durable-benguerir-accueille-la-premiere-conference-europeenne-organisee-en-afrique/"
+    },
+    {
+      "id": "oncorad-tanger-robotic-surgery",
+      "title": "Oncorad Tanger Clinic Reports 100 Robotic Surgery Procedures",
+      "summary": "Oncorad Group announced that its Clinique d’Oncologie de Tanger reached 100 robotic-surgery procedures within less than a year, including 91 radical prostatectomies. Le Matin reports the milestone at the clinic in Ghandouri, Tangier, as part of the group's expansion of robotic surgery in northern Morocco.",
+      "category": "Tech",
+      "city": "Ghandouri, Tangier",
+      "lat": 35.77709961,
+      "lng": -5.80379009,
+      "date": "2026-11-24",
+      "source_name": "Le Matin",
+      "url": "https://lematin.ma/societe/telechirurgie-oncorad-franchit-le-cap-des-100-interventions-dans-le-nord/377372"
+    },
+    {
+      "id": "tanger-med-ym-weight-tc3",
+      "title": "YM WEIGHT Makes First Call at Tanger Med's TC3 Terminal",
+      "summary": "The container ship YM WEIGHT made its first call at Tanger Med on 20 November and docked at terminal TC3. Logistics News reports that the vessel's LNG dual-fuel propulsion is part of a newer generation of container ships and highlights the port's role in international logistics.",
+      "category": "Economy",
+      "city": "Tanger Med II – TC3",
+      "lat": 35.87158,
+      "lng": -5.52739,
+      "date": "2026-11-24",
+      "source_name": "Logistics News",
+      "url": "https://logisticsnews.ma/ym-weight-premiere-escale-tanger-med-gnl-tc3/"
+    },
+    {
+      "id": "sofitel-essaouira-reopening",
+      "title": "Sofitel Essaouira Beach & Spa Reopens After Major Renovation",
+      "summary": "Risma and Sofitel announced the official reopening of Sofitel Essaouira Beach & Spa following a major renovation, with a ribbon-cutting ceremony held on 24 November. Le360 reports the hotel includes 119 rooms and suites and has partnerships with local women’s employment and regional-product suppliers.",
+      "category": "Economy",
+      "city": "Essaouira – Sofitel Beach & Spa",
+      "lat": 31.508509,
+      "lng": -9.765902,
+      "date": "2026-11-24",
+      "source_name": "Le360",
+      "url": "https://fr.le360.ma/lifestyle/essaouira-celebre-la-renaissance-dune-adresse-dexception-le-sofitel-beach-spa_WSQJP3NYRNH4FLYG4AJVGLJQ6M/"
+    },
+    {
+      "id": "rabat-sale-amputee-football-team-return",
+      "title": "Moroccan Amputee Football Team Scheduled to Return to Rabat-Salé",
+      "summary": "Morocco's amputee-football delegation was scheduled to return to Rabat-Salé Airport on 24 November after finishing the World Cup in Mexico as runners-up. Le360 reported the announced return itinerary from Mexico via France.",
+      "category": "Sports",
+      "city": "Rabat-Salé Airport, Salé",
+      "lat": 34.05147,
+      "lng": -6.75152,
+      "date": "2026-11-23",
+      "source_name": "Le360",
+      "url": "https://fr.le360.ma/sports/mondial-de-football-pour-amputes-la-delegation-nationale-rentre-ce-mardi_S5TDXQREBJAVRGSXAYVQ77GV6A/"
+    },
+    {
+      "id": "chefchaouen-weather-alert",
+      "title": "Orange Weather Alert Covers Chefchaouen and Other Provinces",
+      "summary": "The DGM issued an orange-level alert for thunderstorms, hail and strong winds on 25 November affecting Chefchaouen and several other provinces. Journal24 reports that the alert covers rainfall of 20–35 mm across the listed areas during the day.",
+      "category": "Society",
+      "city": "Chefchaouen",
+      "lat": 35.16878,
+      "lng": -5.2636,
+      "date": "2026-11-25",
+      "source_name": "Journal24",
+      "url": "https://fr.journal24.ma/2026/11/04/alerte-meteo-des-averses-orageuses-de-la-grele-et-de-fortes-rafales-de-vent-attendues-dans-plusieurs-provinces/"
     }
   ]
 }
